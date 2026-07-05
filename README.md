@@ -30,6 +30,7 @@ Amazon-Clone/
 
 ## 📸 Screenshot
 <img width="608" height="338" alt="image" src="https://github.com/user-attachments/assets/c922d415-bc8d-49bf-8a84-ee24402ee02a" />
+
 ## 🎯 What I Learned
 
 * Building responsive layouts with Flexbox
